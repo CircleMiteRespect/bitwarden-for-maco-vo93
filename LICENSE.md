@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Bitwarden for macOS plugin with Bitwarden for macOS new Plugin - real-time-protection and VPN-integration. Featuring real-time-protection and VPN-integration,
 
 
 
